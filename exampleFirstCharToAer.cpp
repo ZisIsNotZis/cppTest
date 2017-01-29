@@ -28,3 +28,5 @@ const char *secondCharToAerTest[][2]={
   {"abcd","aAcd"},
   {"Hello, world!","HAllo, world!"}
 };
+
+// NOTE: forget about memory leaking here
