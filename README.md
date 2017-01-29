@@ -29,7 +29,7 @@ Answers are compared by `operator==` by default, but if there are special needs 
 #define myFunctionTester strcmp
 #define myFunctionTester(a,b) strcmp(a,b)
 ```
-Either one is file. The function should return `true` when the answer is **WRONG**.
+Either one is fine. The function should return `true` when the answer is **WRONG**.
 
 # Shell side usage:
 `./cppTest.sh [files]...`
