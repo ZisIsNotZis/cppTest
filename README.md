@@ -1,5 +1,7 @@
 # cppTest
 
+**Completed.** Standalone C and C++ table-driven test runner. See the [verified completion record](COMPLETION.md).
+
 Write a test table next to a function. Run one command. Every row is called
 and compared, and the answer comes out as a pass, a failure with the value
 that was expected and the value that came back, or a compile error pointing
